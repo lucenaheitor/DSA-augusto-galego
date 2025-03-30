@@ -10,9 +10,7 @@ public class BinarySearch {
         if (result == -1) {
             System.out.println("Elemento não presente no array.");
         } else {
-            System.out.println("Elemento encontrado no índice: " + result);
-
-
+            System.out.println("Elemento encontrado no índice: " + array[result]);
         }
 
     }
