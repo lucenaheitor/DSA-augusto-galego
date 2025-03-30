@@ -1,6 +1,7 @@
 package linked_list;
 
-public class  git checkout deveLinkedListImplements {
+
+public class  LinkedListImplements {
     public static void main(String[] args) {
 
     }

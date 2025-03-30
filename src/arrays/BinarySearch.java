@@ -10,6 +10,7 @@ public class BinarySearch {
         int result = binarySearch(b, 3);
 
 
+
     }
 
 
